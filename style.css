@@ -1,1 +1,9 @@
 /*Style*/
+
+.clsTitle
+{
+    border-bottom-style: solid;
+    border-bottom-width: medium;
+    background-image: linear-gradient(to top, lightgray, white);
+    width: 10%;
+}
