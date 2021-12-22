@@ -2,6 +2,18 @@
 
 .clsTitle
 {
+    font-weight: bold;
+}
+
+.clsPara
+{
+    font-weight: 500;
+    width: 50%;
+    font-size: 18px;
+}
+
+.clsStage
+{
     border-bottom-style: solid;
     border-bottom-width: medium;
     background-image: linear-gradient(to top, lightgray, white);
