@@ -59,3 +59,11 @@ span iframe
     background-color: rgba(0, 0, 0, 0.2);
     color: white;
 }
+
+.clsBlog
+{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
