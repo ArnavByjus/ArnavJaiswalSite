@@ -25,7 +25,7 @@
 {
     border-bottom-style: solid;
     border-bottom-width: medium;
-    background-image: linear-gradient(to top, lightgray, white);
+    background-image: linear-gradient(to top, lightgray, rgba(255,255,255,0.4));
     width: 200px;
 }
 
@@ -34,7 +34,7 @@
     font-weight: bold;
     font-size: 20px;
     text-decoration: none;
-    color: black; 
+    color: white; 
 }
 
 iframe
@@ -46,10 +46,30 @@ span iframe
 {
     width: 40%;
 }
+        
+.clsBackDrop
+{
+    background-image: url(https://image.freepik.com/free-vector/minimal-geometric-stripe-shape-background_1409-1014.jpg);
+    background-attachment: fixed;
+}
+
+.clsButton
+{
+    width: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 70px;
+    font-size: 50px;
+    font-family: serif; 
+    border-color: darkblue;
+    border-radius: 20%;
+    background-color: rgba(0, 0, 255, 0.1);
+    color: white;
+}
 
     </style>
     </head>
-    <body>
+    <body class="clsBackDrop">
         <!--Navagation bar starts here-->
      <nav class="navbar-inverse" style="position:sticky;top:0;z-index:99999">
     <div class="navbar-header">
@@ -69,7 +89,7 @@ span iframe
         <li><a href="https://arnavbyjus.github.io/The-BillyBob-Site/Home%20Page/Codes.html">CODES</a></li>
         <li><a href="https://arnavbyjus.github.io/The-BillyBob-Site/Blog/AllBlog.html">BLOG</a></li>
       </ul>
-    </div>>
+    </div>
 </nav>
         <div>
             <!--Navagation bar ENDS here-->
