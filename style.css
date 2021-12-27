@@ -1,0 +1,60 @@
+    .clsTitle
+{
+    font-weight: bold;
+}
+
+.clsPara
+{
+    font-weight: 500;
+    width: 45%;
+    font-size: 18px;
+}
+
+.clsStage
+{
+    border-bottom-style: solid;
+    border-bottom-width: medium;
+    background-image: linear-gradient(to top, lightgray, white);
+    width: 500px;
+    opacity: 50%;
+}
+
+#idYT
+{
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    color: white; 
+}
+
+iframe
+{
+    width: 80%;
+}
+
+span iframe
+{
+    width: 40%;
+}
+
+.clsBackDrop
+{
+    background-image: url(https://image.freepik.com/free-vector/minimal-geometric-stripe-shape-background_1409-1014.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.clsButton
+{
+    width: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 70px;
+    font-size: 50px;
+    font-family: serif; 
+    border-color: darkblue;
+    border-radius: 20%;
+    background-color: rgba(0, 0, 255, 0.1);
+    color: white;
+}
+}
