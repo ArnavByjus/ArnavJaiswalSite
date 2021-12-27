@@ -55,7 +55,6 @@ span iframe
     font-family: serif; 
     border-color: darkblue;
     border-radius: 20%;
-    background-color: rgba(0, 0, 255, 0.1);
+    background-color: rgba(0, 0, 0, 0.2);
     color: white;
-}
 }
