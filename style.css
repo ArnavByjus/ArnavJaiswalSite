@@ -66,4 +66,24 @@ span iframe
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
+    font-size: 50px;
+    font-family: serif; 
+    border-color: darkblue;
+    border-radius: 20%;
+    background-color: rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+.clsBlogLink
+{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 15px;
+    font-family: serif; 
+    border-color: darkblue;
+    border-radius: 20%;
+    background-color: rgba(0, 0, 0, 0.2);
+    color: white; 
 }
