@@ -1,4 +1,4 @@
-    .clsTitle
+.clsTitle
 {
     font-weight: bold;
 }
@@ -72,6 +72,7 @@ span iframe
     border-radius: 20%;
     background-color: rgba(0, 0, 0, 0.2);
     color: white;
+    width: 80%;
 }
 
 .clsBlogLink
@@ -87,4 +88,20 @@ span iframe
     background-color: rgba(0, 0, 0, 0.2);
     color: white; 
     text-decoration: none;
+}
+
+.clsBlogLink:hover
+{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+    font-family: monospace; 
+    border-color: black;
+    border-radius: 20%;
+    background-color: rgba(0, 0, 0, 0.2);
+    color: lightgrey;
+    text-decoration-color: black;
+    text-decoration: underline;
 }
