@@ -1,3 +1,7 @@
+body{
+    background-color: darkgrey;
+}
+
 .clsTitle
 {
     font-weight: bold;
@@ -66,13 +70,15 @@ span iframe
     padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
-    font-size: 20px;
+    font-size: 28px;
     font-family: serif; 
     border-color: darkblue;
     border-radius: 20%;
     background-color: rgba(0, 0, 0, 0.2);
     color: white;
-    width: 60%;
+    width: 80%;
+    text-decoration-color: white;
+    text-emphasis-color: white;
 }
 
 .clsBlogLink
@@ -109,5 +115,5 @@ span iframe
 .clsBlgTlt{
     font-size: 40px;
     font-weight: bold;
-    color: dimgrey;
+    color: azure;
 }
