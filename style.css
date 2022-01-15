@@ -66,7 +66,7 @@ span iframe
     padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
-    font-size: 50px;
+    font-size: 20px;
     font-family: serif; 
     border-color: darkblue;
     border-radius: 20%;
@@ -104,4 +104,10 @@ span iframe
     color: lightgrey;
     text-decoration-color: black;
     text-decoration: underline;
+}
+
+.clsBlgTlt{
+    font-size: 40px;
+    font-weight: bold;
+    color: dimgrey;
 }
